@@ -3,7 +3,7 @@ Newsletter Particle From Rockettheme modified for Mail Chimp
 
 ## Getting Started
 
-##Installing
+## Installing
 
 First thing you will need to do is copy the contents of the particles folder newsletter.html.twig and newsletter.yaml files to TEMPLATE_DIR/custom/particles. If the particles directory does not already exist in your custom folder, you will have to create it.
 
