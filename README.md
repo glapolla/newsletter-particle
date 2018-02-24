@@ -9,7 +9,7 @@ First thing you will need to do is copy the contents of the particles folder new
 
 Next copy the _newsletter.scss from the scss folder to the TEMPLATE_DIR/custom/scss.  If the scss directory does not already exist in your custom folder, you will have to create it. If you do not have a custom.css file also copy the custom.scss file.  IF you have a custom.css add file @import "dependencies"; and @import "newsletter"; at the top of the file on seperate lines.
  
-Go to https://kb.mailchimp.com/lists/signup-forms/host-your-own-signup-forms and follow the instructions there.  The part you will need is:````
+Go to https://kb.mailchimp.com/lists/signup-forms/host-your-own-signup-forms and follow the instructions there.  The part you will need is:
 
 ```
 <form action="http://mailchimp.us8.list-manage.com/subscribe/post" method="POST">
